@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<configure xmlns="http://namespaces.zope.org/zope"
+           xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+           i18n_domain="Products.internalExternalWorkflow">
+
+    <genericsetup:registerProfile
+        name="default"
+        title="internalExternalWorkflow"
+        directory="profiles/default"
+        description="An internal/external Workflow for Plone 3.x"
+        provides="Products.GenericSetup.interfaces.EXTENSION"
+    />
+
+</configure>

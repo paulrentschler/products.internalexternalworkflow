@@ -1,0 +1,6 @@
+Changelog for internalExternalWorkflow
+
+    Author: Paul Rentschler
+
+internalExternalWorkflow 1.0 - 2 Feb 2010
+    - Product created
